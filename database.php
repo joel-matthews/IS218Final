@@ -19,3 +19,4 @@
         include('database_error.html');
         exit();
     }
+?>
