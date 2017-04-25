@@ -1,17 +1,17 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item/)
+# [Start Bootstrap](http://startbootstrap.com/) - [Logo Nav](http://startbootstrap.com/template-overviews/logo-nav/)
 
-[Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item/) is an individual portfolio item template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Logo Nav](http://startbootstrap.com/template-overviews/logo-nav/) is a navigation bar template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template replaces the default navbar brand text with an image.
 
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/portoflio-item/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-portoflio-item.git`
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/logo-nav/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-logo-nav.git`
 * Fork the repo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-portoflio-item/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/portoflio-item/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-logo-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/logo-nav/).
 
 ## Creator
 
@@ -24,4 +24,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-portoflio-item/blob/gh-pages/LICENSE) license.
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-logo-nav/blob/gh-pages/LICENSE) license.
