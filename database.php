@@ -6,6 +6,7 @@
 	//$dsn = 'mysql:host=sql2.njit.edu;dbname=jpm88';
 	$hostname = 'sql2.njit.edu';
 	$username = 'jpm88';
+	$password = '1sTR30KZ'
 	$database = 'jpm88';
 	
 	
