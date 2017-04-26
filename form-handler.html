@@ -2,8 +2,8 @@
 <body>
 
 Welcome <?php 
-	if (isset($_POST["FirstName"])){
-		echo $_POST["FirstName"];
+	if (isset($_POST["fName"])){
+		echo $_POST["fName"];
 	}
 	else {
 		echo "(you didn't provide a name)";
@@ -12,8 +12,8 @@ Welcome <?php
 		
 ?><br>
 Your email address is: <?php
-	echo $_GET["email"];
-	echo filter_input(INPUT_GET, 'email');
+	echo $_GET["Email"];
+	echo filter_input(INPUT_GET, 'Email');
 	?>
 
 </body>

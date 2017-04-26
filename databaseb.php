@@ -25,7 +25,7 @@
 			
 	    <?php foreach ($results as $oneLine) : ?>
 	    <div>
-	        <?php echo $oneLine['email']; ?>
+	        <?php echo $oneLinea['email']; ?>
 	        <br /><br />
 	    </div>
 		<?php endforeach; ?>		
