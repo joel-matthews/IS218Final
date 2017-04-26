@@ -10,8 +10,9 @@ include('form-handler.html');
 	$Phone=$_POST['Phone'];
 	$DOB=$_POST['DOB'];
 	$Gender=$_POST['Gender'];
+	$Password=$_POST['Password'];
 
-	$sql="INSERT INTO Accounts (fName, lName, Email, Phone, DOB, Gender) VALUES ('$fName','$lName','$Email','$Phone','$DOB','$Gender')";
+	$sql="INSERT INTO Accounts (fName, lName, Email, Phone, DOB, Gender, Password) VALUES ('$fName','$lName','$Email','$Phone','$DOB','$Gender', '$Password')";
 
 
 	$statement = $db->prepare($sql);
