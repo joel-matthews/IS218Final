@@ -12,7 +12,7 @@ include('form-handler.html');
 	$Gender=$_POST['Gender'];
 	$Password=$_POST['Password'];
 
-	$sql="INSERT INTO Accounts (fName, lName, Email, Phone, DOB, Gender, Password) VALUES ('$fName','$lName','$Email','$Phone','$DOB','$Gender', '$Password')";
+	$sql="INSERT INTO Accounts(fName, lName, Email, Phone, DOB, Gender, Password) VALUES ('$fName','$lName','$Email','$Phone','$DOB','$Gender', '$Password')";
 
 
 	$statement = $db->prepare($sql);
