@@ -1,7 +1,7 @@
 <?php
 // if(isset($_POST['submit']))
 include_once 'connectDatabase.php';
-include('form-handler2.php');
+include('form-handlertwo.php');
 
 {
 
