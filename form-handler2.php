@@ -7,9 +7,9 @@
 ?>
 <body>
 
-Welcome <?php 
-	if (isset($_POST["fName"])){
-		echo $_POST["fName"];
+Task: <?php 
+	if (isset($_POST["task"])){
+		echo $_POST["task"];
 	}
 	else {
 		echo "(you didn't provide a name)";
@@ -17,9 +17,9 @@ Welcome <?php
 	
 		
 ?><br>
-Your email address is: <?php
-	if (isset($_POST["Email"])){
-		echo $_POST["Email"];
+Due Date: <?php
+	if (isset($_POST["date"])){
+		echo $_POST["date"];
 	}
 	?>
 
